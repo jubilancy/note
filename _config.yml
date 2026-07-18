@@ -6,6 +6,7 @@ baseurl: "/note"
 author: jubilancy
 timezone: America/Toronto
 timezone_short: ET
+permalink: /:title/
 
 # Keywords
 keywords: ['notes', 'blog', 'jekyll']
@@ -41,7 +42,7 @@ autopages:
 exclude: ['README.md', 'COPYING', '.gitignore', 'Gemfile', 'Gemfile.lock']
 
 # Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-paginate-v2
+#   - jekyll-seo-tag
