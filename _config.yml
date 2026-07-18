@@ -2,6 +2,7 @@
 name: Note
 description: A personal note repository
 url: https://jubilancy.github.io/note/
+baseurl: "/note"
 author: jubilancy
 timezone: America/Toronto
 timezone_short: ET
